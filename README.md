@@ -13,3 +13,10 @@ Sample Screenshots:
 ![image](https://github.com/JohnRexBanal/Library-Management-with-Inventory-System/assets/118782481/3b6ffe21-17c3-40db-ad77-f6610491f5ae)
 
 ![image](https://github.com/JohnRexBanal/Library-Management-with-Inventory-System/assets/118782481/c3840441-2b0a-4a46-9e96-7c627829d6c2)
+
+![image](https://github.com/JohnRexBanal/Library-Management-with-Inventory-System/assets/118782481/591a71ab-3acc-483d-810f-5852611b2a60)
+
+![image](https://github.com/JohnRexBanal/Library-Management-with-Inventory-System/assets/118782481/27b07582-b590-4fac-92b6-4b6ee5a3981e)
+
+![image](https://github.com/JohnRexBanal/Library-Management-with-Inventory-System/assets/118782481/d06a2fdc-cc35-4684-b9d8-3ddaa959ff71)
+
